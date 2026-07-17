@@ -1,16 +1,39 @@
-## Hi there 👋
+## Hi I,m Ulvi Pashaev 👋
+------------------------------------------------
 
-<!--
-**Mr-Tyrell-Wellick/Mr-Tyrell-Wellick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+iOS Developer
 
-Here are some ideas to get you started:
+Swift • SwiftUI • UIKit
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📱 Published App
+
+Meta Cards
+
+([App Store](https://apps.apple.com/ru/app/meta-cards/id6787464724))
+
+🛠 Tech Stack
+
+Swift
+UIKit
+SwiftUI
+RxSwift
+Combine
+...
+
+🚀 Featured Projects
+
+Meta Cards
+
+Workout Timer
+
+Novels
+
+Molnia-31
+
+📫 Contacts
+
+Telegram http://t.me/UlviPasha
+Email ulvidev@outlook.com
+HH https://hh.ru/resume/7c294d2cff0d31d4390039ed1f655058367663?hhtmFrom=profile_experience
+
+------------------------------------------------
