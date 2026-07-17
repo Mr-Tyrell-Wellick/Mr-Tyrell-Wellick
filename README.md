@@ -4,7 +4,7 @@
 
 ### iOS Developer
 
-Building polished native iOS applications with **Swift**, **UIKit** and **SwiftUI**.
+Building polished native iOS products with **Swift**, **UIKit** and **SwiftUI**.
 
 <br>
 
@@ -34,7 +34,7 @@ A native iOS application built entirely from scratch using **SwiftUI**, **Combin
 
 ---
 
-## Experience
+## Explore Meta Cards
 
 <table>
 <tr>
@@ -121,10 +121,6 @@ Customize themes, font size and brightness.
 
 ## Contact
 
-📬 **Email**
-
-ulvidev@outlook.com
-
-💬 **Telegram**
-
-https://t.me/UlviPasha
+- **Email:** [ulvidev@outlook.com](mailto:ulvidev@outlook.com)
+- **Telegram:** [@UlviPasha](https://t.me/UlviPasha)
+- **App Store:** [Meta Cards](https://apps.apple.com/ru/app/meta-cards/id6787464724)
