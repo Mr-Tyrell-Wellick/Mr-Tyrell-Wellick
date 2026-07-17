@@ -107,19 +107,11 @@ Customize themes, font size and brightness.
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/UIKit-black?style=for-the-badge&logo=apple">
-
 <img src="https://img.shields.io/badge/SwiftUI-orange?style=for-the-badge&logo=swift">
 
 <img src="https://img.shields.io/badge/Combine-red?style=for-the-badge">
 
-<img src="https://img.shields.io/badge/RxSwift-purple?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/CoreData-grey?style=for-the-badge">
-
 <img src="https://img.shields.io/badge/MVVM-success?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/Uber%20RIBs-blueviolet?style=for-the-badge">
 
 <img src="https://img.shields.io/badge/Tuist-blue?style=for-the-badge">
 
