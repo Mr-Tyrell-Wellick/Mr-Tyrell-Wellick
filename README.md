@@ -1,4 +1,4 @@
-## Hi I,m Ulvi Pashaev 👋
+## Hi, I,m Ulvi Pashaev 👋
 ------------------------------------------------
 
 iOS Developer
@@ -16,19 +16,27 @@ Meta Cards
 Swift
 UIKit
 SwiftUI
-RxSwift
 Combine
-...
+RxSwift
+MVVM
+MVP
+Coordinator
+Router
+Uber RIBs
+CoreData
+Firebase
+Tuist
+Git
 
 🚀 Featured Projects
 
-Meta Cards
+🎴 Meta Cards 
 
-Workout Timer
+🏋 Workout Timer 
 
-Novels
+📖 Novels 
 
-Molnia-31
+⚽️ Molnia-31
 
 📫 Contacts
 
