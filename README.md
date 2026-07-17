@@ -9,103 +9,104 @@ Building native iOS applications with **Swift**, **UIKit** and **SwiftUI**
 <br>
 
 <a href="https://apps.apple.com/ru/app/meta-cards/id6787464724">
-    <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="56">
+<img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="55">
 </a>
 
 </div>
 
 ---
 
-# 🚀 Featured Project
+# 📱 Published App
 
-## 📱 Meta Cards
+## Meta Cards
 
-Published on the App Store
+Native iOS application for working with metaphorical associative cards.
 
-A modern iOS application for working with metaphorical cards.
+Built entirely from scratch using **SwiftUI**, **Combine**, **MVVM** and **Tuist**.
 
-### Built with
-
-<p>
-
-<img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white">
-<img src="https://img.shields.io/badge/Combine-FA7343?style=for-the-badge">
-<img src="https://img.shields.io/badge/MVVM-4CAF50?style=for-the-badge">
-<img src="https://img.shields.io/badge/Tuist-6C63FF?style=for-the-badge">
-
+<p align="center">
+<img src="assets/home.png" width="260">
 </p>
 
-### Features
-
-- 🌍 Localized into **20 languages**
-- 🎨 Dynamic themes
-- 🔍 Card search
-- 📖 Rich card interpretation
-- ⚙️ Personalized reading experience
-
 ---
 
-# 💼 Other Projects
+# ✨ Features
 
-## 🏋️ Workout Timer *(Private Repository)*
+<table>
+<tr>
 
-Native workout planner focused on modular architecture.
+<td align="center">
 
-**Stack**
+<img src="assets/home.png" width="190"><br>
 
-UIKit • RxSwift • Uber RIBs • CoreData • Tuist
+<b>Browse Decks</b>
 
----
+Choose a deck based on your current state.
 
-## 📚 Novels
+</td>
 
-Commercial iOS application.
+<td align="center">
 
-UIKit • MVP • Router
+<img src="assets/cards.png" width="190"><br>
 
----
+<b>Explore Cards</b>
 
-## ⚽ Molnia-31
+Quick search and random card selection.
 
-Commercial football club application.
+</td>
 
-UIKit • MVVM • Firebase • Coordinator
+<td align="center">
+
+<img src="assets/detail.png" width="190"><br>
+
+<b>Read & Reflect</b>
+
+Read interpretations and personalize your reading experience.
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 # 🛠 Tech Stack
 
-<p>
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=swift,firebase,git"/>
 
 </p>
 
-<p>
+<p align="center">
 
-<img src="https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white">
-<img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white">
-<img src="https://img.shields.io/badge/Combine-FA7343?style=for-the-badge">
-<img src="https://img.shields.io/badge/RxSwift-B7178C?style=for-the-badge">
-<img src="https://img.shields.io/badge/CoreData-616161?style=for-the-badge">
-<img src="https://img.shields.io/badge/MVVM-4CAF50?style=for-the-badge">
-<img src="https://img.shields.io/badge/MVP-00ACC1?style=for-the-badge">
-<img src="https://img.shields.io/badge/Coordinator-5C6BC0?style=for-the-badge">
-<img src="https://img.shields.io/badge/Uber%20RIBs-673AB7?style=for-the-badge">
-<img src="https://img.shields.io/badge/Tuist-6C63FF?style=for-the-badge">
+<img src="https://img.shields.io/badge/UIKit-black?style=for-the-badge&logo=apple">
+<img src="https://img.shields.io/badge/SwiftUI-orange?style=for-the-badge&logo=swift">
+<img src="https://img.shields.io/badge/Combine-red?style=for-the-badge">
+<img src="https://img.shields.io/badge/RxSwift-purple?style=for-the-badge">
+<img src="https://img.shields.io/badge/CoreData-grey?style=for-the-badge">
+<img src="https://img.shields.io/badge/MVVM-success?style=for-the-badge">
+<img src="https://img.shields.io/badge/Uber%20RIBs-blueviolet?style=for-the-badge">
+<img src="https://img.shields.io/badge/Tuist-blue?style=for-the-badge">
 
 </p>
 
 ---
 
+# 💼 Other Projects
+
+- 🏋️ **Workout Timer** *(Private Repository)*
+- 📚 **Novels**
+- ⚽ **Molnia-31**
+
+---
+
 # 📫 Contact
 
-📬 **Email**  
-**ulvidev@outlook.com**
+📬 **Email**
 
-💬 **Telegram**  
+ulvidev@outlook.com
+
+💬 **Telegram**
+
 https://t.me/UlviPasha
-
-💼 **HH.ru**  
-https://hh.ru/resume/7c294d2cff0d31d4390039ed1f655058367663
---
