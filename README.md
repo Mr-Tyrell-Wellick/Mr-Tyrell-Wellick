@@ -1,76 +1,103 @@
 <div align="center">
 
-# Hi, I'm Ulvi Pashaev 👋
+# 👋 Hi, I'm Ulvi Pashaev
 
 ### iOS Developer
 
-Building native iOS applications with **Swift**, **UIKit** and **SwiftUI**
+Building polished native iOS applications with **Swift**, **UIKit** and **SwiftUI**.
 
 <br>
 
 <a href="https://apps.apple.com/ru/app/meta-cards/id6787464724">
-<img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="55">
+<img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="58">
 </a>
 
 </div>
 
 ---
 
-# 📱 Published App
-
-## Meta Cards
-
-Native iOS application for working with metaphorical associative cards.
-
-Built entirely from scratch using **SwiftUI**, **Combine**, **MVVM** and **Tuist**.
+# Meta Cards
 
 <p align="center">
-<img src="assets/home.png" width="260">
+
+<img src="assets/splash.png" width="320">
+
+</p>
+
+<p align="center">
+
+### Designed for meaningful self-reflection.
+
+A native iOS application built entirely from scratch using **SwiftUI**, **Combine**, **MVVM** and **Tuist**.
+
 </p>
 
 ---
 
-# ✨ Features
+## Experience
 
 <table>
 <tr>
 
 <td align="center">
 
-<img src="assets/home.png" width="190"><br>
+<img src="assets/home.png" width="210">
 
-<b>Browse Decks</b>
+<br><br>
 
-Choose a deck based on your current state.
+### Browse Decks
+
+Choose a deck based on your current emotional state.
 
 </td>
 
 <td align="center">
 
-<img src="assets/cards.png" width="190"><br>
+<img src="assets/cards.png" width="210">
 
-<b>Explore Cards</b>
+<br><br>
+
+### Explore Cards
 
 Quick search and random card selection.
 
 </td>
 
+</tr>
+
+<tr>
+
 <td align="center">
 
-<img src="assets/detail.png" width="190"><br>
+<img src="assets/detail.png" width="210">
 
-<b>Read & Reflect</b>
+<br><br>
 
-Read interpretations and personalize your reading experience.
+### Read & Reflect
+
+Read detailed interpretations and reflect on your thoughts.
+
+</td>
+
+<td align="center">
+
+<img src="assets/settings.png" width="210">
+
+<br><br>
+
+### Personalize
+
+Customize themes, font size and brightness.
 
 </td>
 
 </tr>
+
 </table>
 
 ---
 
-# 🛠 Tech Stack
+# Built with
 
 <p align="center">
 
@@ -81,27 +108,26 @@ Read interpretations and personalize your reading experience.
 <p align="center">
 
 <img src="https://img.shields.io/badge/UIKit-black?style=for-the-badge&logo=apple">
+
 <img src="https://img.shields.io/badge/SwiftUI-orange?style=for-the-badge&logo=swift">
+
 <img src="https://img.shields.io/badge/Combine-red?style=for-the-badge">
+
 <img src="https://img.shields.io/badge/RxSwift-purple?style=for-the-badge">
+
 <img src="https://img.shields.io/badge/CoreData-grey?style=for-the-badge">
+
 <img src="https://img.shields.io/badge/MVVM-success?style=for-the-badge">
+
 <img src="https://img.shields.io/badge/Uber%20RIBs-blueviolet?style=for-the-badge">
+
 <img src="https://img.shields.io/badge/Tuist-blue?style=for-the-badge">
 
 </p>
 
 ---
 
-# 💼 Other Projects
-
-- 🏋️ **Workout Timer** *(Private Repository)*
-- 📚 **Novels**
-- ⚽ **Molnia-31**
-
----
-
-# 📫 Contact
+## Contact
 
 📬 **Email**
 
